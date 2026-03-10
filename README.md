@@ -35,10 +35,6 @@ Across these projects, the primary workflow follows a systems pipeline:
 - **nba-data-preprocessing**  
   Streaming data preprocessing pipeline with memory-aware execution and hardware telemetry.
 
-### Production ML Systems
-
-- **Data-Science-AI-Portfolio**  
-  End-to-end ML lifecycle including training pipelines, ONNX optimization, FastAPI inference services, and drift monitoring.
 
 ## Technical Stack
 
